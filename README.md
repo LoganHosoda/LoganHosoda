@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Logan Hosoda from Washington<br><br>- 🔭 I’m a software engineer<br>- 📚 I'm currently learning about Next.js!<br>- ⚡ In my free time I like to spend time with my kiddos, learn new tools, and go to the gym!</p>
+<p align="left">I'm Logan Hosoda from Washington<br><br>- 🔭 I’m a software engineer that is currently working as an AI Trainer/Prompt Engineer<br>- 📚 I'm currently learning about Next.js!<br>- ⚡ In my free time I like to spend time with my kiddos, learn new tools, and go to the gym!</p>
 
 ###
 
