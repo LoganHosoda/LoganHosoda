@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **loganhosoda@gmail.coom**
 
-- ⚡ Fun fact I'm a dad with 2 sets of twins!
+- ⚡ Fun fact: I'm a dad with 2 sets of twins!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
