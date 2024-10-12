@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/loganhosodadev" target="blank"><img src="https://img.shields.io/twitter/follow/loganhosodadev?logo=twitter&style=for-the-badge" alt="loganhosodadev" /></a> </p>
 
-- 🌱 I’m currently learning **Express and Redux**
+- 🌱 I’m currently learning **Express and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://logan-portfolio-v2.vercel.app/](https://logan-portfolio-v2.vercel.app/)
 
